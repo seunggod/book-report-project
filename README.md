@@ -2,7 +2,7 @@
 ## 프로그램 개요
 + Spring Framework 프로젝트
 + 도서의 리뷰를 공유하는 웹 사이트
-+ 1인 진행
++ 개인적인 개발 연습을 위한 프로젝트
 ## Stack
 <img src="https://img.shields.io/badge/mssql-1572B6?style=for-the-badge&logo=mssql&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-1572B6?style=for-the-badge&logo=eclipse&logoColor=white"> 
 ## 주요 기능 설명
